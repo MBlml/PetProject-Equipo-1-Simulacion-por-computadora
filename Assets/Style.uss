@@ -1,0 +1,39 @@
+.button-style {
+    height: 45px;
+    width: 150px;
+    font-size: 18px;
+    background-color: rgb(38, 166, 231);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: auto;
+    left: auto;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    -unity-font-style: bold;
+}
+
+.button-style:hover {
+    height: 45px;
+    width: 150px;
+    font-size: 18px;
+    background-color: rgb(49, 157, 209);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: auto;
+    left: auto;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    -unity-font-style: bold;
+}
